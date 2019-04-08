@@ -1,5 +1,5 @@
-# Sample NodeJS application for Azure Pipelines docs https://dev.azure.com/slackvillains/SampleTest/_apis/build/status/SlackVillains.pipelines-javascript?branchName=master
-
+# Sample NodeJS application for Azure Pipelines docs 
+[![Build Status](https://dev.azure.com/slackvillains/SampleTest/_apis/build/status/SlackVillains.pipelines-javascript?branchName=master)](https://dev.azure.com/slackvillains/SampleTest/_build/latest?definitionId=1&branchName=master)
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 | Example | Build status |
